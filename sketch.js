@@ -1,3 +1,4 @@
+//adding the ellipse to car 
 var canvas, backgroundImage;
 
 var gameState = 0;
